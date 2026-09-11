@@ -20,6 +20,14 @@
 <img src="https://streak-stats.demolab.com/?user=rounak1434&theme=dark&hide_border=false" />
 
 </div>
+## 🐍 My Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rounak1434/rounak1434/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rounak1434/rounak1434/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rounak1434/rounak1434/output/github-snake.svg">
+  </picture>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
