@@ -20,6 +20,6 @@
 <img src="https://streak-stats.demolab.com/?user=rounak1434&theme=dark&hide_border=false" />
 
 </div>
-### ✍️ Random Dev Quote
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
