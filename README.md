@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on **LeadScan**<br><br>🌱 I’m currently learning **AI/ML, Flutter, embedded systems & cloud**<br><br>👯 I’m looking to collaborate on **AI, IoT & automation projects**<br><br>🤝 I’m looking for help with **Scaling real-world AI & IoT projects**<br><br>👨‍💻 All of my projects are available at [https://github.com/rounak1434](https://github.com/rounak1434)<br><br>💬 Ask me about **AI, Flutter, Firebase, IoT**<br><br>📫 How to reach me **rs750421@gmail.com**
+💫 About Me:
+I am a Computer Science and Engineering student with a strong interest in building practical technology solutions and exploring different areas of computing. I enjoy learning how software systems work and applying programming skills to solve real-world problems.
+
+My interests include areas such as artificial intelligence, embedded systems, and system-level problem solving. I like working on technical projects that combine creativity, logic, and engineering thinking.
+
+I am continuously learning new technologies, improving my programming skills, and exploring innovative ideas in software and intelligent systems development.
+
+Areas of Interest
+
+* Artificial Intelligence
+* Embedded Systems
+* System Design
+* Software Development
+
+Goal
+
+To build impactful technologies and contribute to innovative engineering solutions.
 
 
 ## 🌐 Socials:
