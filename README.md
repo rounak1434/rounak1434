@@ -31,7 +31,7 @@ To build impactful technologies and contribute to innovative engineering solutio
 
 </div>
 </div>
-**🐍 My Contribution Snake**
+## 🐍 My Contribution Snake
 
 <p align="center">
   <picture>
