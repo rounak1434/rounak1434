@@ -30,8 +30,8 @@ To build impactful technologies and contribute to innovative engineering solutio
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rounak1434&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
-</div>
-## 🐍 My Contribution Snake
+<div>
+<h2>🐍 My Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -40,5 +40,5 @@ To build impactful technologies and contribute to innovative engineering solutio
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rounak1434/rounak1434/output/github-snake.svg">
   </picture>
 </p>
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
